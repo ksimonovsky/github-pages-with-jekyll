@@ -14,6 +14,6 @@ description:
   3. One of my favorite hobbies is reading. My favorite series to read is Harry Potter, which I have read and watched countless times.
 
 # social links
-instagram_username: kk_simon30
+instagram username: kk_simon30
 
-github_username: ksimonovsky
+github username: ksimonovsky
