@@ -2,7 +2,8 @@
 title: "All About Kayla!"
 date: 2021-06-04
 ---
-title: All About Kayla!
+
+![image](https://user-images.githubusercontent.com/84185991/120798855-f4f5e580-c50b-11eb-97d5-7279e42602b5.png)
 
 author: ksimonovsky
 
