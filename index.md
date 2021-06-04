@@ -1,8 +1,19 @@
 ---
-title: "Welcome to my blog!"
+title: "All About Kayla!"
+date: 2021-06-04
 ---
+title: All About Kayla!
 
-I'm glad you are here. I plan to talk about 3 facts about me
-1. I am a starbucks barista
-2. I swam in the Junior Olympics when I was a freshman
-3. My favorite book series to read is Harry Potter.
+author: ksimonovsky
+
+email: ksimonovsky@ebnet.org
+
+description: 
+  1. I work as a barista at Starbucks. I am responsible for knowing how to make all of the drinks, heat up food, ring up customers, and work the drive thru.
+  2. I swam in the Junior Olympics in my freshman year. I swam for both my club and school team that year, so I would train everyday for 2-3 hours a day to make the time cuts. 
+  3. One of my favorite hobbies is reading. My favorite series to read is Harry Potter, which I have read and watched countless times.
+
+# social links
+instagram_username: kk_simon30
+
+github_username: ksimonovsky
