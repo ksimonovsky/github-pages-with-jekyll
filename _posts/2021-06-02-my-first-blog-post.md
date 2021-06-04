@@ -15,6 +15,7 @@ description:
 
 # social links
 instagram_username: kk_simon30
+
 github_username: ksimonovsky
 
 show_excerpts: true # set to false to remove excerpts on the homepage
