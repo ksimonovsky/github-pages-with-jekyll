@@ -2,6 +2,7 @@
 title: "Kayla's blog"
 date: 2021-06-02
 ---
+![image](https://user-images.githubusercontent.com/84185991/122054566-cacae000-cdb5-11eb-9398-7db226170e52.png)
 
 Here are 3 interesting facts about me:
 1. I work at Starbucks as a barista. I am responsible for being able to make every drink on the menu, heat up food, ring up customers and work the drive thru. 
